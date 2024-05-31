@@ -1,0 +1,8 @@
+.app-header{
+  height: 50px;
+  background-color: mediumseagreen;
+  display: flex;
+  justify-content: center;
+  color: white;
+  align-items: center;
+}
